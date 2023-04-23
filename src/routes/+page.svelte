@@ -49,16 +49,16 @@
 		<h2>Our API wrappers</h2>
 		<div class="wrappers">
 			<div class="api-wrapper">
-				<Fa icon={faJava} style="color: white; font-weight: bold; font-size: 5rem"/>
+				<Fa icon={faJava} style="color: white; font-weight: bold; font-size: 4rem"/>
 			</div>
 			<div class="api-wrapper">
-				<Fa icon={faSquareJs} style="color: white; font-weight: bold; font-size: 5rem"/>
+				<Fa icon={faSquareJs} style="color: white; font-weight: bold; font-size: 4rem"/>
 			</div>
 			<div class="api-wrapper">
-				<Fa icon={faPython} style="color: white; font-weight: bold; font-size: 5rem"/>
+				<Fa icon={faPython} style="color: white; font-weight: bold; font-size: 4rem"/>
 			</div>
 			<div class="api-wrapper">
-				<Fa icon={faRust} style="color: white; font-weight: bold; font-size: 5rem"/>
+				<Fa icon={faRust} style="color: white; font-weight: bold; font-size: 4rem"/>
 			</div>
 		</div>
 	</div>
@@ -120,8 +120,8 @@
 		gap: 5rem;
 	}
 	.api-wrapper {
-		width: 150px;
-		height: 150px;
+		width: 125px;
+		height: 125px;
 
 		display: flex;
 		align-items: center;
