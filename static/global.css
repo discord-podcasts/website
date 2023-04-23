@@ -10,6 +10,7 @@
     --primary-050: hsl(0, 0%, 5%);
     --primary-100: hsl(0, 0%, 10%);
     --primary-200: hsl(0, 0%, 15%);
+    --blue: #5865F2;
 }
 html {
     background-color: var(--primary-050);
@@ -23,18 +24,23 @@ h2 {
     font-size: 3rem;
     color: white;
 }
+
+h3 {
+    font-size: 2rem;
+    color: white;
+}
+
 p {
     color: white;
 }
 
 .button-1 {
-    font-size: 1.5rem;
     font-weight: bold;
     color: white;
 
     padding: .5em 1em;
     border: white 1px solid;
-    border-radius: 20px;
+    border-radius: 15px;
 
     cursor: pointer;
     text-decoration: none;
